@@ -1,3 +1,3 @@
-# go-bookstore GO Side Project #3
+# go-bookstore 
 
-GO REST API with Gorilla Mux + MySQL
+GO REST API with Gorilla Mux + MySQL - GO Project #3
